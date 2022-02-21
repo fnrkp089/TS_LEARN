@@ -1,0 +1,12 @@
+{
+  "name": "block",
+  "version": "1.0.0",
+  "description": "typescript practice",
+  "main": "index.js",
+  "author": "KennethLee",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js",
+    "prestart": "tsc"
+  }
+}
